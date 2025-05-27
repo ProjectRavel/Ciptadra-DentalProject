@@ -1,2 +1,2 @@
-# DentalX NextJS Template - Premium Dental Clinic Website Solution
-# Created by AliThemes
+# PROJECT PERTAMA - CIPTADRA
+Created by Rafael Pandu Sumanti XI RPL 1
