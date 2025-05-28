@@ -20,7 +20,8 @@ export default function BackToTop({ target }: any) {
 
   const handleClick = () => {
     window.scrollTo({
-      top: document.querySelector(target).offsetTop,
+      top: 0,
+      left: 0,
       behavior: "smooth",
     });
   };
