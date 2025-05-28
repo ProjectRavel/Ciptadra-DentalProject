@@ -83,7 +83,7 @@ export default function Layout({ headerStyle, footerStyle, mainMenuStyle, childr
       {footerStyle == 3 ? <Footer3 /> : null}
       {footerStyle == 4 ? <Footer4 /> : null}
 
-      <BackToTop />
+      <BackToTop target="#top" />
     </>
   );
 }
